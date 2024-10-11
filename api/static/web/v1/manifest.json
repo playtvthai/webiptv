@@ -342,6 +342,24 @@
 "country":"HK"
 },
 {
+"channel":"nowS1PL-alt.hk",
+"id":"nowS1PL-alt.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 1(ALT)",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts1pl-alt.m3u8",
+"logo":"https://i.imgur.com/l2dzMGa.png",
+"country":"HK"
+},
+{
+"channel":"nowS1PL-alt-2.hk",
+"id":"nowS1PL-alt-2.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 1(ALT 2)",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts1pl-alt-2.m3u8",
+"logo":"https://i.imgur.com/l2dzMGa.png",
+"country":"HK"
+},
+{
 "channel":"nowS2PL.hk",
 "id":"nowS2PL.hk",
 "name":"NOWSPORTS PREMIER LEAGUE 2",
