@@ -405,8 +405,8 @@
 "country":"HK"
 },
 {
-"channel":"nowS1.hk",
-"id":"nowS1.hk",
+"channel":"nowS1-alt.hk",
+"id":"nowS1-alt.hk",
 "name":"NOWSPORTS 1(ALT)",
 "categories":["SPORTS"],
 "url":"hk/nowsp0rts1-alt.m3u8",
