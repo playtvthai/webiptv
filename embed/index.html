@@ -28,7 +28,7 @@ var container = document.getElementById("my-player");
 var config = {
   key: "c6d7e091-e62e-4bda-819f-99bb13506fba",
   playback: {
-    muted: true,
+    muted: false,
     autoplay: true,
     preferredTech: [
       {
@@ -54,7 +54,7 @@ var config = {
     ]
   },
   source: {
-    progressive: "//donelfantastic.github.io/webiptv/web/" + sURL,
+    hls: "https://donelfantastic.github.io/webiptv/web/" + sURL,
     poster: "" 
   },
   tweaks: {
