@@ -6,7 +6,8 @@ if (video.canPlayType("application/vnd.apple.mpegurl")) {
   const hls = new Hls({
     maxBufferSize: 1 * 1000,
   });
-  hls.loadSource(src);
+  var source = video.src;
+  hls.loadSource(source);
   hls.attachMedia(video);
 } else {
   console.error(
