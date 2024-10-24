@@ -188,7 +188,24 @@
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png",
 "country":"ES"
 },
-
+{
+"channel":"dazn1.de",
+"id":"dazn1.de",
+"name":"DAZN DE",
+"categories":["SPORTS"],
+"url":"https://donelfantastic.github.io/webiptv/web/dazn-de/index.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/pcmt111657045725.png",
+"country":"DE"
+}, 
+{
+"channel":"dazn2.de",
+"id":"dazn2.de",
+"name":"DAZN 2 DE",
+"categories":["SPORTS"],
+"url":"https://donelfantastic.github.io/webiptv/web/dazn-de2/index.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/risd0q1657045733.png",
+"country":"DE"
+}, 
 {
 "channel":"ArenaS1P",
 "id":"ArenaS1P",
@@ -348,7 +365,7 @@
 "id":"astroSS1.my",
 "name":"ASTRO SUPERSPORT",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports/playlist.m3u8",
+"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports/index.m3u8",
 "logo":"https://donelfantastic.github.io/webiptv/images/astro-supersports-1.png",
 "country":"MY"
 }, 
@@ -357,7 +374,7 @@
 "id":"astroSS2.my",
 "name":"ASTRO SUPERSPORT 2",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports2/playlist.m3u8",
+"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports2/index.m3u8",
 "logo":"https://donelfantastic.github.io/webiptv/images/astro-supersports-2.png",
 "country":"MY"
 }, 
@@ -366,7 +383,7 @@
 "id":"astroSS3.my",
 "name":"ASTRO SUPERSPORT 3",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports3/playlist.m3u8",
+"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports3/index.m3u8",
 "logo":"https://donelfantastic.github.io/webiptv/images/astro-supersports-3.png",
 "country":"MY"
 },
@@ -375,7 +392,7 @@
 "id":"astroSS4.my",
 "name":"ASTRO SUPERSPORT 4",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports4/playlist.m3u8",
+"url":"https://donelfantastic.github.io/webiptv/web/astro-supersports4/index.m3u8",
 "logo":"https://donelfantastic.github.io/webiptv/images/astro-supersports-4.png",
 "country":"MY"
 },
@@ -384,7 +401,7 @@
 "id":"premierSp1.uk",
 "name":"PREMIER SPORTS 1",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/premier-sports/playlist.m3u8",
+"url":"https://donelfantastic.github.io/webiptv/web/premier-sports/index.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/Premier_Sports.png",
 "country":"UK"
 },
@@ -393,7 +410,7 @@
 "id":"premierSp2.uk",
 "name":"PREMIER SPORTS 2",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/premier-sports2/playlist.m3u8",
+"url":"https://donelfantastic.github.io/webiptv/web/premier-sports2/index.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/frtowu1600893109.png",
 "country":"UK"
 },
@@ -447,7 +464,7 @@
 "id":"sportsDF.de",
 "name":"SPORTDIGITAL FUSSBALL",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/sportdigital-fussball/playlist.m3u8",
+"url":"https://donelfantastic.github.io/webiptv/web/sportdigital-fussball/index.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/m6qkm51712223494.png",
 "country":"DE"
 },
