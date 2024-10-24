@@ -135,6 +135,33 @@
 "country":"UK"
 },
 {
+"channel":"play1Sports.be",
+"id":"play1Sports.be",
+"name":"PLAY SPORTS 1",
+"categories":["SPORTS"],
+"url":"https:\/\/jaran-goyang051.donelfantastic.workers.dev\/stream.mpd",
+"logo":"https://i.imgur.com/E2wVMVk.jpeg",
+"country":"BE"
+},
+{
+"channel":"play2Sports.be",
+"id":"play2Sports.be",
+"name":"PLAY SPORTS 2",
+"categories":["SPORTS"],
+"url":"https:\/\/jaran-goyang052.donelfantastic.workers.dev\/stream.mpd",
+"logo":"https://i.imgur.com/E2wVMVk.jpeg",
+"country":"BE"
+},
+  {
+"channel":"play3Sports.be",
+"id":"play3Sports.be",
+"name":"PLAY SPORTS 3",
+"categories":["SPORTS"],
+"url":"https:\/\/jaran-goyang053.donelfantastic.workers.dev\/stream.mpd",
+"logo":"https://i.imgur.com/E2wVMVk.jpeg",
+"country":"BE"
+},
+{
 "channel":"dazn1.es",
 "id":"dazn1.es",
 "name":"DAZN 1 ES",
