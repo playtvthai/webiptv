@@ -193,7 +193,7 @@
 "id":"dazn1.de",
 "name":"DAZN DE",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/dazn-de/index.m3u8",
+"url":"https:\/\/jarangoyang.donelfantastic.workers.dev\/dazn-linear-017\/stream.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/pcmt111657045725.png",
 "country":"DE"
 }, 
@@ -202,7 +202,7 @@
 "id":"dazn2.de",
 "name":"DAZN 2 DE",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/dazn-de2/index.m3u8",
+"url":"https:\/\/jarangoyang.donelfantastic.workers.dev\/dazn-linear-018\/stream.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/risd0q1657045733.png",
 "country":"DE"
 }, 
@@ -464,7 +464,7 @@
 "id":"sportsDF.de",
 "name":"SPORTDIGITAL FUSSBALL",
 "categories":["SPORTS"],
-"url":"https://donelfantastic.github.io/webiptv/web/sportdigital-fussball/index.m3u8",
+"url":"https:\/\/jarangoyang.donelfantastic.workers.dev\/dazn-linear-022\/stream.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/m6qkm51712223494.png",
 "country":"DE"
 },
@@ -500,7 +500,7 @@
 "id":"truePF1.th",
 "name":"TRUE PREMIERE FOOTBALL 1",
 "categories":["SPORTS"],
-"url":"https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8",
+"url":"https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8",
 "logo":"https://truevisions.co.th/static/ba1de35c-8a25-47de-a27c-5cd8f705a14f.png",
 "country":"TH"
 },
@@ -509,7 +509,7 @@
 "id":"truePF2.th",
 "name":"TRUE PREMIERE FOOTBALL 2",
 "categories":["SPORTS"],
-"url":"https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8",
+"url":"https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8",
 "logo":"https://truevisions.co.th/static/f815743f-72e1-4dcc-ad17-925657183a24.png",
 "country":"TH"
 },
@@ -518,7 +518,7 @@
 "id":"truePF3.th",
 "name":"TRUE PREMIERE FOOTBALL 3",
 "categories":["SPORTS"],
-"url":"https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8",
+"url":"https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8",
 "logo":"https://truevisions.co.th/static/1c11f698-75a0-449d-8a79-6a52be569911.png",
 "country":"TH"
 },
@@ -527,7 +527,7 @@
 "id":"truePF4.th",
 "name":"TRUE PREMIERE FOOTBALL 4",
 "categories":["SPORTS"],
-"url":"https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8",
+"url":"https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8",
 "logo":"https://truevisions.co.th/static/1be50729-1560-4f16-88a8-6ac653afe8e1.png",
 "country":"TH"
 },
