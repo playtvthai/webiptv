@@ -536,7 +536,7 @@
 "id":"truePF5.th",
 "name":"TRUE PREMIERE FOOTBALL 5",
 "categories":["SPORTS"],
-"url":"https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
+"url":"https://www.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8",
 "logo":"https://truevisions.co.th/static/133a8160-6e09-4c7f-80e4-39a45f296d00.png",
 "country":"TH"
 },
@@ -545,7 +545,7 @@
 "id":"trueSp1.th",
 "name":"TRUE SPORT 1",
 "categories":["SPORTS"],
-"url":"https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
+"url":"https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8",
 "logo":"https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
 "country":"TH"
 },
@@ -554,7 +554,7 @@
 "id":"trueSp2.th",
 "name":"TRUE SPORT 2",
 "categories":["SPORTS"],
-"url":"https://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8",
+"url":"https://www.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8",
 "logo":"https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
 "country":"TH"
 },
@@ -563,7 +563,7 @@
 "id":"trueSp3.th",
 "name":"TRUE SPORT 3",
 "categories":["SPORTS"],
-"url":"https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
+"url":"https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8",
 "logo":"https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",
 "country":"TH"
 },
@@ -572,7 +572,7 @@
 "id":"trueSp4.th",
 "name":"TRUE SPORT 4",
 "categories":["SPORTS"],
-"url":"https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8",
+"url":"https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8",
 "logo":"https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",
 "country":"TH"
 },
@@ -581,7 +581,7 @@
 "id":"trueSp5.th",
 "name":"TRUE SPORT 5",
 "categories":["SPORTS"],
-"url":"https://www.livedoomovies.com:4432/02_2sporthd5_720p/chunklist.m3u8",
+"url":"https://www.livedoomovies.com:4431/02_2sporthd5_720p/chunklist.m3u8",
 "logo":"https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
 "country":"TH"
 },
@@ -590,7 +590,7 @@
 "id":"trueSp7.th",
 "name":"TRUE SPORT 7",
 "categories":["SPORTS"],
-"url":"https://www.livedoomovies.com:4432/02_2sporthd7_720p/chunklist.m3u8",
+"url":"https://www.livedoomovies.com:4431/02_2sporthd7_720p/chunklist.m3u8",
 "logo":"https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
 "country":"TH"
 },
@@ -599,7 +599,7 @@
 "id":"beinSport.id",
 "name":"BEINSPORTS ID",
 "categories":["SPORTS"],
-"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/BEIN01\/sa_dash_vmx\/BEIN01.mpd",
+"url":"https:\/\/cendol-dawet-seger.donelfantastic.workers.dev\/BEIN01\/sa_dash_vmx\/BEIN01.mpd",
 "logo":"https://donelfantastic.github.io/webiptv/images/bein-sports-1.png",
 "country":"ID"
 },
@@ -608,7 +608,7 @@
 "id":"beinSport2.id",
 "name":"BEINSPORTS 2 ID",
 "categories":["SPORTS"],
-"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/BEIN02\/sa_dash_vmx\/BEIN02.mpd",
+"url":"https:\/\/cendol-dawet-seger.donelfantastic.workers.dev\/BEIN02\/sa_dash_vmx\/BEIN02.mpd",
 "logo":"https://donelfantastic.github.io/webiptv/images/bein-sports-2.png",
 "country":"ID"
 },
@@ -617,7 +617,7 @@
 "id":"beinSport3.id",
 "name":"BEINSPORTS 3 ID",
 "categories":["SPORTS"],
-"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/BEIN03\/sa_dash_vmx\/BEIN03.mpd",
+"url":"https:\/\/cendol-dawet-seger.donelfantastic.workers.dev\/BEIN03\/sa_dash_vmx\/BEIN03.mpd",
 "logo":"https://donelfantastic.github.io/webiptv/images/bein-sports-3.png",
 "country":"ID"
 },
@@ -626,7 +626,7 @@
 "id":"beinSport4.id",
 "name":"BEINSPORTS 4 ID",
 "categories":["SPORTS"],
-"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/BEIN04\/sa_dash_vmx\/BEIN04.mpd",
+"url":"https:\/\/cendol-dawet-seger.donelfantastic.workers.dev\/BEIN04\/sa_dash_vmx\/BEIN04.mpd",
 "logo":"https://donelfantastic.github.io/webiptv/images/bein-sports-4.png",
 "country":"ID"
 },
@@ -635,7 +635,7 @@
 "id":"beinSport5.id",
 "name":"BEINSPORTS 5 ID",
 "categories":["SPORTS"],
-"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/BEIN05\/sa_dash_vmx\/BEIN05.mpd",
+"url":"https:\/\/cendol-dawet-seger.donelfantastic.workers.dev\/BEIN05\/sa_dash_vmx\/BEIN05.mpd",
 "logo":"https://donelfantastic.github.io/webiptv/images/bein-sports-5.png",
 "country":"ID"
 },
@@ -644,7 +644,7 @@
 "id":"sportStars.id",
 "name":"SPORTSTARS ID",
 "categories":["SPORTS"],
-"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/MNCSports-HD\/sa_dash_vmx\/MNCSports-HD.mpd",
+"url":"https:\/\/cendol-dawet-seger.donelfantastic.workers.dev\/MNCSports-HD\/sa_dash_vmx\/MNCSports-HD.mpd",
 "logo":"https://i.postimg.cc/ydthvytz/Sportstars.png",
 "country":"ID"
 },
@@ -653,7 +653,7 @@
 "id":"sportStars2.id",
 "name":"SPORTSTARS 2 ID",
 "categories":["SPORTS"],
-"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
+"url":"https:\/\/cendol-dawet-seger.donelfantastic.workers.dev\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
 "logo":"https://i.postimg.cc/MHB74jJf/Sportstars-2.png",
 "country":"ID"
 },
@@ -662,7 +662,7 @@
 "id":"sportStars3.id",
 "name":"SPORTSTARS 3 ID",
 "categories":["SPORTS"],
-"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/Soccer-2\/sa_dash_vmx\/Soccer-2.mpd",
+"url":"https:\/\/cendol-dawet-seger.donelfantastic.workers.dev\/Soccer-2\/sa_dash_vmx\/Soccer-2.mpd",
 "logo":"https://i.postimg.cc/664fTF46/Sportstars-3.png",
 "country":"ID"
 },
@@ -671,7 +671,7 @@
 "id":"sportStars4.id",
 "name":"SPORTSTARS 4 ID",
 "categories":["SPORTS"],
-"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/Sportstar4\/sa_dash_vmx\/Sportstar4.mpd",
+"url":"https:\/\/cendol-dawet-seger.donelfantastic.workers.dev\/Sportstar4\/sa_dash_vmx\/Sportstar4.mpd",
 "logo":"https://i.postimg.cc/RVrQtGw7/Sportstars-4.png",
 "country":"ID"
 },
@@ -680,7 +680,7 @@
 "id":"soccerChannel.id",
 "name":"SOCCER CHANNEL ID",
 "categories":["SPORTS"],
-"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/soccerchannel-test\/sa_dash_vmx\/soccerchannel-test.mpd",
+"url":"https:\/\/cendol-dawet-seger.donelfantastic.workers.dev\/soccerchannel-test\/sa_dash_vmx\/soccerchannel-test.mpd",
 "logo":"https://i.imgur.com/wuduAXD.png",
 "country":"ID"
 },
@@ -689,7 +689,7 @@
 "id":"Spotv.id",
 "name":"SPOTV ID",
 "categories":["SPORTS"],
-"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/SPOTV-HD\/sa_dash_vmx\/SPOTV-HD.mpd",
+"url":"https:\/\/cendol-dawet-seger.donelfantastic.workers.dev\/SPOTV-HD\/sa_dash_vmx\/SPOTV-HD.mpd",
 "logo":"https://i.imgur.com/HaoVsm5.png",
 "country":"ID"
 },
@@ -698,7 +698,7 @@
 "id":"Spotv2.id",
 "name":"SPOTV 2 ID",
 "categories":["SPORTS"],
-"url":"https:\/\/cempedak-cdn-fly.mncnow.id\/live\/eds\/SPOTV2-HD.mpd\/sa_dash_vmx\/SPOTV-HD2.mpd",
+"url":"https:\/\/cendol-dawet-seger.donelfantastic.workers.dev\/SPOTV2-HD.mpd\/sa_dash_vmx\/SPOTV-HD2.mpd",
 "logo":"https://i.imgur.com/YD8fbTH.png",
 "country":"ID"
 }, 
