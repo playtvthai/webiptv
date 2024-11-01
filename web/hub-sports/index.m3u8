@@ -4,8 +4,8 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.120000,
-http://185.235.165.5:80/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1032529&extension=ts
+http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1032529_0&extension=ts
 #EXTINF:10.000000,
-http://185.235.165.5:80/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1032529&extension=ts
+http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1032529_1&extension=ts
 #EXTINF:10.000000,
-http://185.235.165.5:80/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1032529&extension=ts
+http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1032529_2&extension=ts
