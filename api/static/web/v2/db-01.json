@@ -347,7 +347,7 @@
 "id":"fuboSportNetW.us",
 "name":"FUBO SPORTS NETWORK",
 "categories":["SPORTS"],
-"url":"",
+"url":"https://donelfantastic.github.io/webiptv/web/fubo-sports/index.m3u8",
 "logo":"https://cdn.tvpassport.com/image/station/240x135/v2/s106100_h15_ab.png",
 "country":"US"
 },
@@ -359,6 +359,42 @@
 "url":"https://fl5.moveonjoy.com/ESPN_U/manifest.mpd",
 "logo":"https://cdn.tvpassport.com/image/station/240x135/v2/s60696_h15_aa.png",
 "country":"US"
+},
+{
+"channel":"FoxS1Arg",
+"id":"FoxS1Arg",
+"name":"FOX SPORTS ARG",
+"categories":["SPORTS"],
+"url":"https://cors-proxy.cooks.fyi/190.11.130.46/mnp/fox_sport/output.mpd",
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_Fox_Sports_Argentina_2023.png/800px-Logo_Fox_Sports_Argentina_2023.png",
+"country":"ARG"
+}, 
+{
+"channel":"FoxS2Arg",
+"id":"FoxS2Arg",
+"name":"FOX SPORTS 2 ARG",
+"categories":["SPORTS"],
+"url":"https://cors-proxy.cooks.fyi/190.11.130.46/mnp/fox_sport2/output.mpd",
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png",
+"country":"ARG"
+}, 
+{
+"channel":"FoxS3Arg",
+"id":"FoxS3Arg",
+"name":"FOX SPORTS 3 ARG",
+"categories":["SPORTS"],
+"url":"https://cors-proxy.cooks.fyi/190.11.130.46/mnp/fox_sport3/output.mpd",
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png",
+"country":"ARG"
+}, 
+{
+"channel":"TycSArg",
+"id":"TycSArg",
+"name":"TYC SPORTS ARG",
+"categories":["SPORTS"],
+"url":"https://cors-proxy.cooks.fyi/190.11.130.46/mnp/",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/rtqxvp1472103744.png",
+"country":"ARG"
 },
 {
 "channel":"astroSS1.my",
