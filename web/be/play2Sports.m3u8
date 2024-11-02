@@ -4,8 +4,9 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.120000,
-https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/83212539/43153928/348358_0.ts
-#EXTINF:10.000000,
-https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/83212539/43153928/348358_1.ts
-#EXTINF:10.000000,
-https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/83212539/43153928/348358_2.ts
+https://cors-proxy.cooks.fyi/xtv.ooo:8080/83212539/43153928/348358
+
+# #EXTINF:10.000000,
+# #https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/83212539/43153928/348358_1.ts
+# #EXTINF:10.000000,
+# #https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/83212539/43153928/348358_2.ts
