@@ -1,7 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:3893
+#EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:10
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.120000,
+https://worldradio.online/proxy/?q=xtv.ooo:8080/live/83212539/43153928/381398_0.ts
 #EXTINF:10.000000,
-https://worldradio.online/proxy/?q=daddyserver.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/108188
+https://worldradio.online/proxy/?q=xtv.ooo:8080/live/83212539/43153928/381398_1.ts
+#EXTINF:10.000000,
+https://worldradio.online/proxy/?q=xtv.ooo:8080/live/83212539/43153928/381398_2.ts
