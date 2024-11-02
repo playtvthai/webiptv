@@ -3,5 +3,9 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
-#EXTINF:10.100000,
-https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/83212539/43153928/348357_.ts
+#EXTINF:10.120000,
+https://cors-proxy.cooks.fyi/http://xtv.ooo:8080/live/83212539/43153928/348357_0.ts
+#EXTINF:10.000000,
+http://xtv.ooo:8080/live/83212539/43153928/348357_1.ts
+#EXTINF:10.000000,
+http://xtv.ooo:8080/live/83212539/43153928/348357_2.ts
