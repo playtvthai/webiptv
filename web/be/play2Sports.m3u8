@@ -4,8 +4,8 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.120000,
-https://worldradio.online/proxy/?q=xtv.ooo:8080/live/83212539/43153928/348358_0.ts
+https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/83212539/43153928/348358_0.ts
 #EXTINF:10.000000,
-https://worldradio.online/proxy/?q=xtv.ooo:8080/live/83212539/43153928/348358_1.ts
+https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/83212539/43153928/348358_1.ts
 #EXTINF:10.000000,
-https://worldradio.online/proxy/?q=xtv.ooo:8080/live/83212539/43153928/348358_2.ts
+https://cors-proxy.cooks.fyi/xtv.ooo:8080/live/83212539/43153928/348358_2.ts
