@@ -108,15 +108,6 @@
 "country":"IT"
 },
 {
-"channel":"usaNetE.us",
-"id":"usaNetE.us",
-"name":"USA NETWORK (EAST)",
-"categories":["SPORTS"],
-"url":"us/usanetw0rk-east.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/logo/tiny/yswxwr1433432126.png",
-"country":"US"
-},
-{
 "channel":"usaNetW.us",
 "id":"usaNetW.us",
 "name":"USA NETWORK (WEST)",
@@ -464,7 +455,7 @@
 "name":"HUB PREMIER 1",
 "categories":["SPORTS"],
 "url":"sg/hubpremsp0rts1.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",
 "country":"SG"
 },
 {
@@ -556,6 +547,24 @@
 "url":"sg/hubpremsp0rts11.m3u8",
 "logo":"https://i.imgur.com/l0rGLan.png",
 "country":"SG"
+},
+{
+"channel":"starS1.in",
+"id":"starS1.in",
+"name":"STARSPORTS 1",
+"categories":["SPORTS"],
+"url":"in/starsp0rts1.m3u8",
+"logo":"https://i.imgur.com/E5jjKHI.png",
+"country":"IN"
+},
+{
+"channel":"starS2.in",
+"id":"starS2.in",
+"name":"STARSPORTS 2",
+"categories":["SPORTS"],
+"url":"in/starsp0rts2.m3u8",
+"logo":"https://i.imgur.com/5En7pOI.png",
+"country":"IN"
 }, 
 {
 "channel":"starSS1.in",
@@ -574,5 +583,41 @@
 "url":"in/starsp0rtsselect2.m3u8",
 "logo":"https://i.imgur.com/FtRT73R.png",
 "country":"IN"
+}, 
+{
+"channel":"espn1.nl",
+"id":"espn1.nl",
+"name":"ESPN",
+"categories":["SPORTS"],
+"url":"nl/espn1.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+"country":"NL"
+},
+{
+"channel":"espn2.nl",
+"id":"espn2.nl",
+"name":"ESPN 2",
+"categories":["SPORTS"],
+"url":"nl/espn2.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
+"country":"NL"
+},
+{
+"channel":"espn3.nl",
+"id":"espn3.nl",
+"name":"ESPN 3",
+"categories":["SPORTS"],
+"url":"nl/espn3.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
+"country":"NL"
+},
+{
+"channel":"espn4.nl",
+"id":"espn4.nl",
+"name":"ESPN 4",
+"categories":["SPORTS"],
+"url":"nl/espn4.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/ekdzvo1660760535.png",
+"country":"NL"
 }
 ]  
