@@ -110,17 +110,6 @@
 "country": "ID"
 },
 {
-"channel": "jaktvid",
-"id": "jaktvid",
-"name": "JakTV",
-"categories": [
-"LOCAL"
-],
-"url": "https:\/\/nellakharisma-koncomesra.donelfantastic.workers.dev\/JakTV\/sa_dash_vmx\/JakTV.mpd",
-"logo": "https:\/\/www.lyngsat.com\/logo\/tv\/jj\/jak-tv-id.png",
-"country": "ID"
-},
-{
 "channel": "kompastvid",
 "id": "kompastvid",
 "name": "KOMPASTV",
@@ -197,17 +186,6 @@
 "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",
 "country": "ID"
 },
-{
-"channel": "indonesianaid",
-"id": "indonesianaid",
-"name": "INDONESIANA TV",
-"categories": [
-"LOCAL"
-],
-"url": "https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_2.m3u8",
-"logo": "https:\/\/indonesiana.tv\/_nuxt\/img\/logo-indonesianatv-fit.0d9697f.png",
-"country": "ID"
-},  
 {
 "channel": "donelf.id",
 "id": "donelf.id",
