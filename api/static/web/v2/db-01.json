@@ -193,7 +193,7 @@
 "id":"dazn1.de",
 "name":"DAZN DE",
 "categories":["SPORTS"],
-"url":"https:\/\/nellakharisma-jarangoyang.donelfantastic.workers.dev\/dazn-linear-017\/stream.mpd",
+"url":"https:\/\/nellakharisma-jarangoyang17.donelfantastic.workers.dev\/stream.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/pcmt111657045725.png",
 "country":"DE"
 }, 
@@ -202,10 +202,19 @@
 "id":"dazn2.de",
 "name":"DAZN 2 DE",
 "categories":["SPORTS"],
-"url":"https:\/\/nellakharisma-jarangoyang.donelfantastic.workers.dev\/dazn-linear-018\/stream.mpd",
+"url":"https:\/\/nellakharisma-jarangoyang18.donelfantastic.workers.dev\/stream.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/risd0q1657045733.png",
 "country":"DE"
-}, 
+},
+{
+"channel":"sportsDF.de",
+"id":"sportsDF.de",
+"name":"SPORTDIGITAL FUSSBALL",
+"categories":["SPORTS"],
+"url":"https:\/\/nellakharisma-jarangoyang22.donelfantastic.workers.dev\/stream.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/m6qkm51712223494.png",
+"country":"DE"
+},
 {
 "channel":"ArenaS1P",
 "id":"ArenaS1P",
@@ -494,15 +503,6 @@
 "url":"https://donelfantastic.github.io/webiptv/web/skysports-calcio/index.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/tiny/70ud6o1656963115.png",
 "country":"IT"
-},
-{
-"channel":"sportsDF.de",
-"id":"sportsDF.de",
-"name":"SPORTDIGITAL FUSSBALL",
-"categories":["SPORTS"],
-"url":"https:\/\/nellakharisma-jarangoyang.donelfantastic.workers.dev\/dazn-linear-022\/stream.mpd",
-"logo":"https://www.thesportsdb.com/images/media/channel/logo/m6qkm51712223494.png",
-"country":"DE"
 },
 {
 "channel":"trueBS1.th",
