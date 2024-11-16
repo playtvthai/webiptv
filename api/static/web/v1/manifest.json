@@ -4,7 +4,7 @@
 "id":"astroSS1.my",
 "name":"ASTRO SUPERSPORT",
 "categories":["SPORTS"],
-"url":"http://xtv.ooo:8080/jk8010801099/jk8010801099/352087",
+"url":"http://xtv.ooo:8080/30912088/60996054/352087",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",
 "country":"MY"
 }, 
@@ -13,7 +13,7 @@
 "id":"astroSS2.my",
 "name":"ASTRO SUPERSPORT 2",
 "categories":["SPORTS"],
-"url":"http://xtv.ooo:8080/jk8010801099/jk8010801099/352088",
+"url":"http://xtv.ooo:8080/30912088/60996054/352088",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",
 "country":"MY"
 }, 
@@ -22,7 +22,7 @@
 "id":"astroSS3.my",
 "name":"ASTRO SUPERSPORT 3",
 "categories":["SPORTS"],
-"url":"http://xtv.ooo:8080/jk8010801099/jk8010801099/352089",
+"url":"http://xtv.ooo:8080/30912088/60996054/352089",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",
 "country":"MY"
 },
@@ -31,7 +31,7 @@
 "id":"astroSS4.my",
 "name":"ASTRO SUPERSPORT 4",
 "categories":["SPORTS"],
-"url":"http://xtv.ooo:8080/jk8010801099/jk8010801099/352090",
+"url":"http://xtv.ooo:8080/30912088/60996054/352090",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",
 "country":"MY"
 },
@@ -252,15 +252,6 @@
 "country":"UK"
 },
 {
-"channel":"itv1.uk",
-"id":"itv1.uk",
-"name":"ITV",
-"categories":["SPORTS"],
-"url":"http://vo01.mohdtv.com:8880/hdtv0405dda140a6/15954034/2906",
-"logo":"https://www.thesportsdb.com/images/media/channel/logo/rqyvqs1433964177.png",
-"country":"UK"
-},
-{
 "channel":"optusS1.au",
 "id":"optusS1.au",
 "name":"OPTUS SPORTS 1",
@@ -454,7 +445,7 @@
 "id":"hubpremS1.sg",
 "name":"HUB PREMIER 1",
 "categories":["SPORTS"],
-"url":"http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1350557&extension=ts",
+"url":"http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1032529&extension=ts",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",
 "country":"SG"
 },
@@ -463,7 +454,7 @@
 "id":"hubpremS2.sg",
 "name":"HUB PREMIER 2",
 "categories":["SPORTS"],
-"url":"http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1350558&extension=ts",
+"url":"http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1032528&extension=ts",
 "logo":"https://i.imgur.com/mrZwamR.png",
 "country":"SG"
 },
@@ -472,7 +463,7 @@
 "id":"hubpremS3.sg",
 "name":"HUB PREMIER 3",
 "categories":["SPORTS"],
-"url":"http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1350559&extension=ts",
+"url":"http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1032527&extension=ts",
 "logo":"https://i.imgur.com/0A6bP0g.png",
 "country":"SG"
 },
@@ -481,7 +472,7 @@
 "id":"hubpremS4.sg",
 "name":"HUB PREMIER 4",
 "categories":["SPORTS"],
-"url":"http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1350560&extension=ts",
+"url":"http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1032526&extension=ts",
 "logo":"https://i.imgur.com/RTgyfAe.png",
 "country":"SG"
 },
@@ -490,7 +481,7 @@
 "id":"hubpremS5.sg",
 "name":"HUB PREMIER 5",
 "categories":["SPORTS"],
-"url":"http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1350561&extension=ts",
+"url":"http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1032525&extension=ts",
 "logo":"https://i.imgur.com/XhX3oUI.png",
 "country":"SG"
 },
