@@ -445,7 +445,7 @@
 "id":"hubpremS1.sg",
 "name":"HUB PREMIER 1",
 "categories":["SPORTS"],
-"url":"http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1032529&extension=ts",
+"url":"http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&extension=ts&stream=1032529",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",
 "country":"SG"
 },
@@ -454,7 +454,7 @@
 "id":"hubpremS2.sg",
 "name":"HUB PREMIER 2",
 "categories":["SPORTS"],
-"url":"http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1032528&extension=ts",
+"url":"http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&extension=ts&stream=1032528",
 "logo":"https://i.imgur.com/mrZwamR.png",
 "country":"SG"
 },
@@ -463,7 +463,7 @@
 "id":"hubpremS3.sg",
 "name":"HUB PREMIER 3",
 "categories":["SPORTS"],
-"url":"http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1032527&extension=ts",
+"url":"http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&extension=ts&stream=1032527",
 "logo":"https://i.imgur.com/0A6bP0g.png",
 "country":"SG"
 },
@@ -472,7 +472,7 @@
 "id":"hubpremS4.sg",
 "name":"HUB PREMIER 4",
 "categories":["SPORTS"],
-"url":"http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1032526&extension=ts",
+"url":"http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&extension=ts&stream=1032526",
 "logo":"https://i.imgur.com/RTgyfAe.png",
 "country":"SG"
 },
@@ -481,7 +481,7 @@
 "id":"hubpremS5.sg",
 "name":"HUB PREMIER 5",
 "categories":["SPORTS"],
-"url":"http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1032525&extension=ts",
+"url":"http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&extension=ts&stream=1032525",
 "logo":"https://i.imgur.com/XhX3oUI.png",
 "country":"SG"
 },
@@ -490,7 +490,7 @@
 "id":"hubpremS6.sg",
 "name":"HUB PREMIER 6",
 "categories":["SPORTS"],
-"url":"http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1350562&extension=ts",
+"url":"http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&extension=ts&stream=1350562",
 "logo":"https://i.imgur.com/9F7wNgI.png",
 "country":"SG"
 },
@@ -499,7 +499,7 @@
 "id":"hubpremS7.sg",
 "name":"HUB PREMIER 7",
 "categories":["SPORTS"],
-"url":"http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1350563&extension=ts",
+"url":"http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&extension=ts&stream=1350563",
 "logo":"https://i.imgur.com/bVOyKEV.png",
 "country":"SG"
 },
@@ -508,7 +508,7 @@
 "id":"hubpremS8.sg",
 "name":"HUB PREMIER 8",
 "categories":["SPORTS"],
-"url":"http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1350564&extension=ts",
+"url":"http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&extension=ts&stream=1350564",
 "logo":"https://i.imgur.com/stYijJ1.png",
 "country":"SG"
 },
