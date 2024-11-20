@@ -18,15 +18,15 @@ function convertLinks() {
   const password = parts[4];
   const path = parts.slice(6).join("/");
 
-  const Link1 = `http://${host}${path}/player_api.php?username=${username}&password=${password}`;
+  const Link1 = `http://${host}/player_api.php?username=${username}&password=${password}`;
 
-  const Link2 = `http://${host}${path}/player_api.php?username=${username}&password=${password}&action=get_live_categories`;
+  const Link2 = `http://${host}/player_api.php?username=${username}&password=${password}&action=get_live_categories`;
   
-  const Link3 = `http://${host}${path}/player_api.php?username=${username}&password=${password}&action=get_live_streams`;
+  const Link3 = `http://${host}/player_api.php?username=${username}&password=${password}&action=get_live_streams`;
   
-  const Link4 = `http://${host}${path}/player_api.php?username=${username}&password=${password}&action=get_live_streams&category_id=`;
+  const Link4 = `http://${host}/player_api.php?username=${username}&password=${password}&action=get_live_streams&category_id=`;
   
-  const Link5 = `http://${host}${path}/get.php?username=${username}&password=${password}&type=m3u_plus`;
+  const Link5 = `http://${host}/get.php?username=${username}&password=${password}&type=m3u_plus`;
   
 
   document.getElementById(
