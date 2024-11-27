@@ -419,7 +419,7 @@
 "id":"Espn1.Br",
 "name":"ESPN BR",
 "categories":["SPORTS"],
-"url":"https:\/\/cdn-2.nxplay.com.br\/ESPN\/manifest.mpd",
+"url":"https:\/\/cdn-2.nxplay.com.br\/ESPN\/index.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/15wtva1660763030.png",
 "country":"BR"
 },
@@ -428,7 +428,7 @@
 "id":"Espn2.Br",
 "name":"ESPN 2 BR",
 "categories":["SPORTS"],
-"url":"https:\/\/cdn-2.nxplay.com.br\/ESPN_2\/manifest.mpd",
+"url":"https:\/\/cdn-2.nxplay.com.br\/ESPN_2\/index.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/15wtva1660763030.png",
 "country":"BR"
 },
@@ -437,7 +437,7 @@
 "id":"Espn3.Br",
 "name":"ESPN 3 BR",
 "categories":["SPORTS"],
-"url":"https:\/\/cdn-2.nxplay.com.br\/ESPN_3\/manifest.mpd",
+"url":"https:\/\/cdn-2.nxplay.com.br\/ESPN_3\/index.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/15wtva1660763030.png",
 "country":"BR"
 },
@@ -446,7 +446,7 @@
 "id":"Espn4.Br",
 "name":"ESPN 4 BR",
 "categories":["SPORTS"],
-"url":"https:\/\/cdn-2.nxplay.com.br\/ESPN_4\/manifest.mpd",
+"url":"https:\/\/super-cdn.link\/espn4\/manifest.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/15wtva1660763030.png",
 "country":"BR"
 },
