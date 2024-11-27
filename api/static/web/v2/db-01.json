@@ -29,7 +29,7 @@
 {
 "channel":"usaNetW.us",
 "id":"usaNetW.us",
-"name":"USA NETWORK W",
+"name":"USA NETWORK WEST",
 "categories":["SPORTS"],
 "url":"https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/yswxwr1433432126.png",
@@ -38,7 +38,7 @@
 {
 "channel":"usaNetE.us",
 "id":"usaNetE.us",
-"name":"USA NETWORK E",
+"name":"USA NETWORK EAST",
 "categories":["SPORTS"],
 "url":"https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd",
 "logo":"https://nbcsports.brightspotcdn.com/91/7a/08fa98394d25966ebd32ab9e13f9/usa-color.svg",
@@ -47,7 +47,7 @@
 {
 "channel":"peac.Us",
 "id":"peack.Us",
-"name":"PEACOCK",
+"name":"PEACOCK PREMIER LEAGUE",
 "categories":["SPORTS"],
 "url":"https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd",
 "logo":"https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2020/07/peacockpl-832x410.jpg",
@@ -137,7 +137,7 @@
 {
 "channel":"play1Sports.be",
 "id":"play1Sports.be",
-"name":"PLAY SPORTS 1",
+"name":"PLAY SPORTS",
 "categories":["SPORTS"],
 "url":"https:\/\/nellakharisma-jarangoyang51.donelfantastic.workers.dev\/stream.mpd",
 "logo":"https://i.imgur.com/E2wVMVk.jpeg",
@@ -216,104 +216,104 @@
 "country":"DE"
 },
 {
-"channel":"ArenaS1P",
-"id":"ArenaS1P",
+"channel":"ArenaS1P.ba",
+"id":"ArenaS1P.ba",
 "name":"ARENASPORT PREMIUM",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png",
-"country":"RS"
+"country":"BA"
 }, 
 {
-"channel":"ArenaS2P",
-"id":"ArenaS2P",
+"channel":"ArenaS2P.ba",
+"id":"ArenaS2P.ba",
 "name":"ARENASPORT 2 PREMIUM",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/l4y8gt1643205498.png",
-"country":"RS"
+"country":"BA"
 }, 
 {
-"channel":"ArenaS3P",
-"id":"ArenaS3P",
+"channel":"ArenaS3P.ba",
+"id":"ArenaS3P.ba",
 "name":"ARENASPORT 3 PREMIUM",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/gtlulj1643205508.png",
-"country":"RS"
+"country":"BA"
 }, 
 {
-"channel":"ArenaS1x2",
-"id":"ArenaS1x2",
+"channel":"ArenaS1x2.ba",
+"id":"ArenaS1x2.ba",
 "name":"ARENASPORT 1X2",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/ih14ab1646222134.png",
-"country":"RS"
+"country":"BA"
 }, 
 {
-"channel":"ArenaS1",
-"id":"ArenaS1",
+"channel":"ArenaS1.ba",
+"id":"ArenaS1.ba",
 "name":"ARENASPORT",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/arena1.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/2v005r1643205531.png",
-"country":"RS"
+"country":"BA"
 }, 
 {
-"channel":"ArenaS2",
-"id":"ArenaS2",
+"channel":"ArenaS2.ba",
+"id":"ArenaS2.ba",
 "name":"ARENASPORT 2",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/arena2.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/m4cqz91643205540.png",
-"country":"RS"
+"country":"BA"
 }, 
 {
-"channel":"ArenaS3",
-"id":"ArenaS3",
+"channel":"ArenaS3.ba",
+"id":"ArenaS3.ba",
 "name":"ARENASPORT 3",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/arena3.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/yjqg7l1643205550.png",
-"country":"RS"
+"country":"BA"
 }, 
 
 {
-"channel":"ArenaS4",
-"id":"ArenaS4",
+"channel":"ArenaS4.ba",
+"id":"ArenaS4.ba",
 "name":"ARENASPORT 4",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/arena4.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/cvlppn1643205563.png",
-"country":"RS"
+"country":"BA"
 }, 
 {
-"channel":"ArenaS5",
-"id":"ArenaS5",
+"channel":"ArenaS5.ba",
+"id":"ArenaS5.ba",
 "name":"ARENASPORT 5",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/arena5.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/zu2qkb1643205581.png",
-"country":"RS"
+"country":"BA"
 }, 
 {
-"channel":"ArenaS6",
-"id":"ArenaS6",
+"channel":"ArenaS6.ba",
+"id":"ArenaS6.ba",
 "name":"ARENASPORT 6",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/arena6.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/gcy7ct1643205612.png",
-"country":"RS"
+"country":"BA"
 },   
 {
-"channel":"ArenaSPL",
-"id":"ArenaSPL",
+"channel":"ArenaSPL.ba",
+"id":"ArenaSPL.ba",
 "name":"ARENASPORT PREMIERE LEAGUE",
 "categories":["SPORTS"],
 "url":"https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd",
 "logo":"https://www.thesportsdb.com/images/media/league/logo/4c377s1535214890.png",
-"country":"RS"
+"country":"BA"
 },
 {
 "channel":"beinSports.us",
@@ -327,7 +327,7 @@
 {
 "channel":"beinXtra.en",
 "id":"beinXtra.en",
-"name":"BEIN SPORTS XTRA EN",
+"name":"BEIN SPORTS XTRA US",
 "categories":["SPORTS"],
 "url":"https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
 "logo":"https://prod-media.beinsports.com/image/f51ff5e82c61a9c21b95a001fdc6c241.png",
@@ -348,16 +348,16 @@
 "name":"CBS SPORTS NETWORK",
 "categories":["SPORTS"],
 "url":"https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/manifest.mpd",
-"logo":"https://i.imgur.com/LgboQOj.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/77gqjl1624103918.png",
 "country":"US"
 },
 {
 "channel":"fuboSportNetW.us",
 "id":"fuboSportNetW.us",
-"name":"FUBO SPORTS NETWORK",
+"name":"FUBO SPORTS",
 "categories":["SPORTS"],
 "url":"https://donelfantastic.github.io/webiptv/web/fubo-sports/index.m3u8",
-"logo":"https://cdn.tvpassport.com/image/station/240x135/v2/s106100_h15_ab.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/FuboTV_US.png",
 "country":"US"
 },
 {
@@ -366,44 +366,107 @@
 "name":"ESPN U",
 "categories":["SPORTS"],
 "url":"https://fl5.moveonjoy.com/ESPN_U/manifest.mpd",
-"logo":"https://cdn.tvpassport.com/image/station/240x135/v2/s60696_h15_aa.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/qwxxut1433431075.png",
 "country":"US"
 },
 {
-"channel":"FoxS1Arg",
-"id":"FoxS1Arg",
-"name":"FOX SPORTS ARG",
+"channel":"FoxS1.Ar",
+"id":"FoxS1.Ar",
+"name":"FOX SPORTS AR",
 "categories":["SPORTS"],
 "url":"https://cors-proxy.cooks.fyi/190.11.130.46/mnp/fox_sport/output.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/ec5xf51707916511.png",
-"country":"ARG"
+"country":"AR"
 }, 
 {
-"channel":"FoxS2Arg",
-"id":"FoxS2Arg",
-"name":"FOX SPORTS 2 ARG",
+"channel":"FoxS2.Ar",
+"id":"FoxS2.Ar",
+"name":"FOX SPORTS 2 AR",
 "categories":["SPORTS"],
 "url":"https://cors-proxy.cooks.fyi/190.11.130.46/mnp/fox_sport2/output.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/d96btm1707916453.png",
-"country":"ARG"
+"country":"AR"
 }, 
 {
-"channel":"FoxS3Arg",
-"id":"FoxS3Arg",
-"name":"FOX SPORTS 3 ARG",
+"channel":"FoxS3.Ar",
+"id":"FoxS3.Ar",
+"name":"FOX SPORTS 3 AR",
 "categories":["SPORTS"],
 "url":"https://cors-proxy.cooks.fyi/190.11.130.46/mnp/fox_sport3/output.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/cyfsdc1707916479.png",
-"country":"ARG"
+"country":"AR"
+},
+{
+"channel":"EspnXtr.Ar",
+"id":"EspnXtr.Ar",
+"name":"ESPN EXTRA AR",
+"categories":["SPORTS"],
+"url":"https://cors-proxy.cooks.fyi/190.11.130.46/mnp/espn_extra/output.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/hdrkql1660762351.png",
+"country":"AR"
 }, 
 {
-"channel":"TycSArg",
-"id":"TycSArg",
-"name":"TYC SPORTS ARG",
+"channel":"TycS.Ar",
+"id":"TycS.Ar",
+"name":"TYC SPORTS AR",
 "categories":["SPORTS"],
 "url":"https://cors-proxy.cooks.fyi/190.11.130.46/mnp/6ym1cI5NULP0gJHuXiaWh5ZRqJO0ZR4T/output.mpd",
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/zmpjy41624030194.png",
-"country":"ARG"
+"country":"AR"
+},
+{
+"channel":"Espn1.Br",
+"id":"Espn1.Br",
+"name":"ESPN BR",
+"categories":["SPORTS"],
+"url":"https:\/\/cdn-2.nxplay.com.br\/ESPN\/manifest.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/15wtva1660763030.png",
+"country":"BR"
+},
+{
+"channel":"Espn2.Br",
+"id":"Espn2.Br",
+"name":"ESPN 2 BR",
+"categories":["SPORTS"],
+"url":"https:\/\/cdn-2.nxplay.com.br\/ESPN_2\/manifest.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/15wtva1660763030.png",
+"country":"BR"
+},
+{
+"channel":"Espn3.Br",
+"id":"Espn3.Br",
+"name":"ESPN 3 BR",
+"categories":["SPORTS"],
+"url":"https:\/\/cdn-2.nxplay.com.br\/ESPN_3\/manifest.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/15wtva1660763030.png",
+"country":"BR"
+},
+{
+"channel":"Espn4.Br",
+"id":"Espn4.Br",
+"name":"ESPN 4 BR",
+"categories":["SPORTS"],
+"url":"https:\/\/cdn-2.nxplay.com.br\/ESPN_4\/manifest.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/15wtva1660763030.png",
+"country":"BR"
+},
+{
+"channel":"Espn5.Br",
+"id":"Espn5.Br",
+"name":"ESPN 5 BR",
+"categories":["SPORTS"],
+"url":"https:\/\/super-cdn.link\/espn5\/manifest.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/15wtva1660763030.png",
+"country":"BR"
+},
+{
+"channel":"Espn6.Br",
+"id":"Espn6.Br",
+"name":"ESPN 6 BR",
+"categories":["SPORTS"],
+"url":"https:\/\/super-cdn.link\/espn6\/manifest.mpd",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/15wtva1660763030.png",
+"country":"BR"
 },
 {
 "channel":"astroSS1.my",
@@ -638,6 +701,60 @@
 "url":"https://www.livedoomovies.com:4431/02_2sporthd7_720p/chunklist.m3u8",
 "logo":"https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
 "country":"TH"
+},
+{
+"channel":"bein1Sport.Qa",
+"id":"bein1Sport.Qa",
+"name":"BEINSPORTS QA",
+"categories":["SPORTS"],
+"url":"https:\/\/live4.beinconnect.us\/YallaGoalApp\/beINSports1.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",
+"country":"QA"
+},
+{
+"channel":"bein2Sport.Qa",
+"id":"bein2Sport.Qa",
+"name":"BEINSPORTS 2 QA",
+"categories":["SPORTS"],
+"url":"https:\/\/live4.beinconnect.us\/YallaGoalApp\/beINSports2.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png",
+"country":"QA"
+},
+{
+"channel":"bein3Sport.Qa",
+"id":"bein3Sport.Qa",
+"name":"BEINSPORTS 3 QA",
+"categories":["SPORTS"],
+"url":"https:\/\/live4.beinconnect.us\/YallaGoalApp\/beINSports3.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",
+"country":"QA"
+},
+{
+"channel":"bein4Sport.Qa",
+"id":"bein4Sport.Qa",
+"name":"BEINSPORTS 4 QA",
+"categories":["SPORTS"],
+"url":"https:\/\/live4.beinconnect.us\/YallaGoalApp\/beINSports4.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/op3ejs1631279425.png",
+"country":"QA"
+},
+{
+"channel":"bein5Sport.Qa",
+"id":"bein5Sport.Qa",
+"name":"BEINSPORTS 5 QA",
+"categories":["SPORTS"],
+"url":"https:\/\/live4.beinconnect.us\/YallaGoalApp\/beINSports5.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/93010o1631279441.png",
+"country":"QA"
+},
+{
+"channel":"bein6Sport.Qa",
+"id":"bein6Sport.Qa",
+"name":"BEINSPORTS 6 QA",
+"categories":["SPORTS"],
+"url":"https:\/\/live4.beinconnect.us\/YallaGoalApp\/beINSports6.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/6kxiv31631279450.png",
+"country":"QA"
 },
 {
 "channel":"beinSport.id",
