@@ -703,57 +703,75 @@
 "country":"TH"
 },
 {
-"channel":"bein1Sport.Qa",
-"id":"bein1Sport.Qa",
+"channel":"bein1SportENG.qa",
+"id":"bein1SportENG.qa",
+"name":"BEINSPORTS ENGLISH",
+"categories":["SPORTS"],
+"url":"https://donelfantastic.github.io/webiptv/web/bein-sports-english/index.m3u8",
+"logo":"https://prod-media.beinsports.com/image/6a971e08a01e6676d0f1a6e0dacbbd67.png",
+"country":"QA"
+},
+{
+"channel":"bein2SportENG.qa",
+"id":"bein2SportENG.qa",
+"name":"BEINSPORTS ENGLISH 2",
+"categories":["SPORTS"],
+"url":"https://donelfantastic.github.io/webiptv/web/bein-sports-english/index2.m3u8",
+"logo":"https://prod-media.beinsports.com/image/4cd31d31e16ac873f5f421d5880e88d6.png",
+"country":"QA"
+},
+{
+"channel":"bein1Sport.qa",
+"id":"bein1Sport.qa",
 "name":"BEINSPORTS QA",
 "categories":["SPORTS"],
 "url":"https:\/\/live4.beinconnect.us\/YallaGoalApp\/beINSports1.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",
+"logo":"https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.png",
 "country":"QA"
 },
 {
-"channel":"bein2Sport.Qa",
-"id":"bein2Sport.Qa",
+"channel":"bein2Sport.qa",
+"id":"bein2Sport.qa",
 "name":"BEINSPORTS 2 QA",
 "categories":["SPORTS"],
 "url":"https:\/\/live4.beinconnect.us\/YallaGoalApp\/beINSports2.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png",
+"logo":"https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.png",
 "country":"QA"
 },
 {
-"channel":"bein3Sport.Qa",
-"id":"bein3Sport.Qa",
+"channel":"bein3Sport.qa",
+"id":"bein3Sport.qa",
 "name":"BEINSPORTS 3 QA",
 "categories":["SPORTS"],
 "url":"https:\/\/live4.beinconnect.us\/YallaGoalApp\/beINSports3.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",
+"logo":"https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.png",
 "country":"QA"
 },
 {
-"channel":"bein4Sport.Qa",
-"id":"bein4Sport.Qa",
+"channel":"bein4Sport.qa",
+"id":"bein4Sport.qa",
 "name":"BEINSPORTS 4 QA",
 "categories":["SPORTS"],
 "url":"https:\/\/live4.beinconnect.us\/YallaGoalApp\/beINSports4.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/logo/op3ejs1631279425.png",
+"logo":"https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.png",
 "country":"QA"
 },
 {
-"channel":"bein5Sport.Qa",
-"id":"bein5Sport.Qa",
+"channel":"bein5Sport.qa",
+"id":"bein5Sport.qa",
 "name":"BEINSPORTS 5 QA",
 "categories":["SPORTS"],
 "url":"https:\/\/live4.beinconnect.us\/YallaGoalApp\/beINSports5.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/logo/93010o1631279441.png",
+"logo":"https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.png",
 "country":"QA"
 },
 {
-"channel":"bein6Sport.Qa",
-"id":"bein6Sport.Qa",
+"channel":"bein6Sport.qa",
+"id":"bein6Sport.qa",
 "name":"BEINSPORTS 6 QA",
 "categories":["SPORTS"],
 "url":"https:\/\/live4.beinconnect.us\/YallaGoalApp\/beINSports6.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/logo/6kxiv31631279450.png",
+"logo":"https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.png",
 "country":"QA"
 },
 {
