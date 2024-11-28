@@ -1,3 +1,22 @@
+/* PAGE LOADER OVERLAY JS */
+var h = window.innerHeight;
+$('.df-page-overlay').css('height',h);
+var al = 0;
+function progressSim(){
+  document.querySelector('.df-page-overlay>.df-text>p').innerHTML = al+'%';
+  if(al>=100){
+      clearTimeout(sim);
+    }
+    al++;
+  }
+  var sim = setInterval(progressSim,50);
+  $('.df-container-fluid').hide();
+
+  setTimeout(function(){
+    $('.df-page-overlay').hide();
+    $('.df-container-fluid').show();
+  },5500);
+
 //NAVIGATION MENU JS
 let menuIcon = $(".toggle-nav");
 let nav = $(".nav");
