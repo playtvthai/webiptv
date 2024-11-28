@@ -53,7 +53,7 @@
 "logo":"https://i.imgur.com/E2wVMVk.jpeg",
 "country":"BE"
 },
-  {
+{
 "channel":"play3Sports.be",
 "id":"play3Sports.be",
 "name":"PLAY SPORTS 3",
@@ -512,7 +512,7 @@
 "logo":"https://i.imgur.com/RTgyfAe.png",
 "country":"SG"
 },
-  {
+{
 "channel":"hubpremS5.sg",
 "id":"hubpremS5.sg",
 "name":"HUB PREMIER 5",
@@ -521,7 +521,7 @@
 "logo":"https://i.imgur.com/XhX3oUI.png",
 "country":"SG"
 },
-  {
+{
 "channel":"hubpremS6.sg",
 "id":"hubpremS6.sg",
 "name":"HUB PREMIER 6",
@@ -560,7 +560,7 @@
 {
 "channel":"bein2SportsENG.qa",
 "id":"bein2SportsENG.qa",
-"name":"BEINSPORTS ENGLISH",
+"name":"BEINSPORTS 2 ENGLISH",
 "categories":["SPORTS"],
 "url":"http://xtv.ooo:8080/30912088/60996054/381324",
 "logo":"https://prod-media.beinsports.com/image/4cd31d31e16ac873f5f421d5880e88d6.png",
@@ -602,7 +602,7 @@
 "logo":"https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.png",
 "country":"QA"
 },
- {
+{
 "channel":"bein5Sports.qa",
 "id":"bein5Sports.qa",
 "name":"BEINSPORTS 5 QA",
@@ -611,7 +611,7 @@
 "logo":"https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.png",
 "country":"QA"
 },
- {
+{
 "channel":"bein6Sports.qa",
 "id":"bein6Sports.qa",
 "name":"BEINSPORTS 6 QA",
@@ -620,7 +620,7 @@
 "logo":"https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.png",
 "country":"QA"
 },
- {
+{
 "channel":"bein7Sports.qa",
 "id":"bein7Sports.qa",
 "name":"BEINSPORTS 7 QA",
@@ -647,7 +647,7 @@
 "logo":"https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.png",
 "country":"AR"
 },
- {
+{
 "channel":"bein3Sports.ar",
 "id":"bein3Sports.ar",
 "name":"BEINSPORTS 3 AR",
@@ -665,7 +665,7 @@
 "logo":"https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.png",
 "country":"AR"
 },
- {
+{
 "channel":"bein5Sports.ar",
 "id":"bein5Sports.ar",
 "name":"BEINSPORTS 5 AR",
@@ -674,7 +674,7 @@
 "logo":"https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.png",
 "country":"AR"
 },
- {
+{
 "channel":"bein6Sports.ar",
 "id":"bein6Sports.ar",
 "name":"BEINSPORTS 6 AR",
@@ -683,7 +683,7 @@
 "logo":"https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.png",
 "country":"AR"
 },
- {
+{
 "channel":"bein7Sports.ar",
 "id":"bein7Sports.ar",
 "name":"BEINSPORTS 7 AR",
@@ -854,7 +854,7 @@
 "logo":"https://www.thesportsdb.com/images/media/channel/logo/d96btm1707916453.png",
 "country":"ARG"
 },
- {
+{
 "channel":"fox3Sports.arg",
 "id":"fox3Sports.arg",
 "name":"FOXSPORTS 3 ARG",
